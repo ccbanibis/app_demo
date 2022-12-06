@@ -99,6 +99,7 @@
                 },
                 {
                   "description" : "2022-12-03T19:32:25",
+                  "type":"STANDARD",
                   "itemCounter":"1",
                   "basedata": {
                     "id": "34187406",
@@ -232,6 +233,7 @@
               "collections": [
                 {
                   "description" : "2022-12-03T19:32:25",
+                  "type":"STANDARD",
                   "itemCounter":"2",
                   "basedata": {
                     "id": "34187407",
@@ -330,6 +332,7 @@
               "collections": [
                 {
                   "description" : "2022-12-03T19:32:25",
+                  "type":"STANDARD",
                   "itemCounter":"2",
                   "basedata": {
                     "id": "34187408",
